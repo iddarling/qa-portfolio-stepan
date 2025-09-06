@@ -14,10 +14,10 @@
 
 ## 🔍 Документация
 Примеры тестовой документации:  
-- [Bug Reports (Jira)](https://drive.google.com/...)  
-- [Test Cases](https://drive.google.com/...)  
-- [Checklists](https://drive.google.com/...)  
-- [Postman Collection](https://drive.google.com/...)  
+- [Bug Reports (Jira)](https://docs.google.com/document/d/1mBB-wf4DSzy7kSgnzvnpY08WkYEPHaXvzcd9pmJ_S8k/edit?usp=drive_link)  
+- [Test Cases](https://docs.google.com/spreadsheets/d/1WTpD8GJ2yXd15oUp0X7BnH6GK1ktqteQ8DXp32d7e6Y/edit?usp=drive_link)  
+- [Checklists](https://docs.google.com/spreadsheets/d/1O6ijCc70ThXu1pcbLEeSf9IvzZ6RPeiTOVX0QzjL3TE/edit?usp=drive_link)  
+- [Postman Collection](https://drive.google.com/file/d/1j98oGCEc6hCZT7OHKjCFU7X5Rn1tmzWf/view?usp=drive_link)  
 
 ---
 
